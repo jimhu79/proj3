@@ -116,7 +116,7 @@ npm run dev
 7. Get account[0] from ganache and import the private key into Metamask. Etherscan of deployment:
     https://rinkeby.etherscan.io/address/0x385aaaf5f9e8c5aedf57e89a02eb57b2455edacd
 
-#Rinkeby deployment transactions and contract addresses
+##Rinkeby deployment transactions and contract addresses
 
 Starting migrations...
 ======================
