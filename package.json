@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "ganache-cli": "^6.6.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "request": "^2.88.0",
     "truffle": "^5.0.33"
   }
